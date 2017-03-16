@@ -17,6 +17,6 @@ By VRanner, decision makers can see how the project will look be at different st
 
 Meanwhile, along with this file you should be able to download a folder, which is simplified version of our VRanner for a small building. For developing VRanner, we used Tekla Structures and Unity (along with C#), but other softwares can be used too.
 
-Final Word
+# Final Word
 
 This project is just a Minimum Viable Product (MVP) that we developed to bring up this whole idea. Ofcourse, there are certainly many ways for improvemnet.

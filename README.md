@@ -1,7 +1,7 @@
-# VRanner2
+# VRanner
 Monitoring and optimizing building process
 
-Abstract
+# Abstract
 
 Even the most prestigious construction projects run out of planned budget & time. That's because nobody can predict all future project' details for planning. Construction process and its front edge part; Building Information Modeling (BIM), needs improvement as technology is moving forward fast. And we would like to work on it's least noticed aspect: planning. That's where VRanner can be a great help.
 
@@ -11,7 +11,7 @@ To develop VRanner, our most effort went into implementation of BIM model with U
 
 Combination of BIM-based planning and VR opens many new opportunities for further work, each can improve different aspect of building process: improving profit-margin, planning, and safety during the work.
 
-More info
+# More info
 
 By VRanner, decision makers can see how the project will look be at different stages, so from the beginning, they can monitor the project from different (technical) viewpoints. This help them to plan better for procurement, logistic, implementation, safety of workers, etc. One of the main advantages of VRanner is that, is gamified and this turns the boring & frustrating planning phase into an exciting game.
 
